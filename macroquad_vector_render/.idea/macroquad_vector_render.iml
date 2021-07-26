@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/alsa-sys-077a4c8505f18136/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/anyhow-bef09d7501487a10/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/bitflags-929df470e18587d0/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/cpal-3cce006074fee0e0/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/crc32fast-b3fae8a0ce014c94/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/crossbeam-epoch-43c26f25538a6d7b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/crossbeam-epoch-fe2f406bfe4a95cf/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/crossbeam-utils-3133e3ebbe1c1c52/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/crossbeam-utils-f62f75161cd24cbf/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/libc-dd4f04a9e6ca1603/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/log-d9b08fee112e4cce/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/maybe-uninit-6837dff019505340/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/memoffset-a2c3573fb366e6b3/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/memoffset-eeba0613e39b8a89/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/miniz_oxide-04b667a741799e00/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/miniz_oxide-60d9e5950b7e298b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/num-integer-a67485ba7e2d1117/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/num-iter-77a7c9343de620a3/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/num-rational-001d9cec3016d12b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/num-traits-ab640f42224b5d4e/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/proc-macro2-d7386593710f816a/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/rayon-2ef348b456e026ad/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/rayon-core-b4978f4644d8fd6f/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/sapp-linux-baa3ee560707da4e/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/syn-ea4f19b5776a92be/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/unicode-general-category-1762958790f415ac/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/nona/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/nonaquad/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/nonaquad/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/anyhow-bef09d7501487a10/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/bitflags-929df470e18587d0/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/crc32fast-b3fae8a0ce014c94/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/crossbeam-epoch-43c26f25538a6d7b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/crossbeam-epoch-fe2f406bfe4a95cf/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/crossbeam-utils-3133e3ebbe1c1c52/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/crossbeam-utils-f62f75161cd24cbf/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/libc-c833fdac4c3d603c/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/maybe-uninit-6837dff019505340/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/memoffset-a2c3573fb366e6b3/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/memoffset-eeba0613e39b8a89/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/miniz_oxide-04b667a741799e00/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/num-integer-a67485ba7e2d1117/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/num-iter-77a7c9343de620a3/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/num-rational-001d9cec3016d12b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/num-traits-ab640f42224b5d4e/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/proc-macro2-d7386593710f816a/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/rayon-2ef348b456e026ad/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/rayon-core-b4978f4644d8fd6f/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/sapp-linux-baa3ee560707da4e/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nonaquad/target/debug/build/syn-1507028e120e8aac/out" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nonaquad/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
